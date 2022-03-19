@@ -1,9 +1,9 @@
 
 title: "Harold Farfán Reto"
-author: "Harold Farfá Reto"
+author: "Harold Farfán Reto"
 description: "Página personal de Harold Farfán Reto"
 permalink: /:title/
-lang: "en"
+lang: "es"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
