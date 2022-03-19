@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Harold Farfán Reto"
+title: ""
 ---
 
 I'm an assistant professor in the [Linguistics Department](https://www.ling.upenn.edu) at the University of Pennsylvania and the director of the [Child Language Lab](http://childlanglab.com/). 
