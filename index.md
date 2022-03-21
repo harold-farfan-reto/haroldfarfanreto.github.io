@@ -3,8 +3,8 @@ layout: page
 title: ""
 ---
 
-I'm an assistant professor in the [Linguistics Department](https://www.ling.upenn.edu) at the University of Pennsylvania and the director of the [Child Language Lab](http://childlanglab.com/). 
+Soy un lingüista con formación y experiencia en gestión y políticas públicas, investigación y docencia, con interés en la implementación y evaluación de políticas públicas con enfoque intercultural. 
 
-I teach graduate seminars in [psycholinguistics](/ling607) and [neurolinguistics](/neurolinguistics) and an undergraduate course in [language and the brain](/ling104). Occasionally, I also teach [LING 1](/ling001), Penn's Introduction to Linguistics.
+He sido especialista de lenguas indígenas en el Ministerio de Cultura, donde participé en el diseño e implementación del proyecto de formación de traductores e intérpretes de lenguas indígenas para la consulta previa, finalista del Premio BPG 2013. Además, he realizado diversas investigaciones cualitativas y proyectos vinculados con poblaciones indígenas amazónicas. He sido también consultor del Ministerio de Cultura y el Sineace, y docente en diversas universidades.
 
-This semester I'm teaching a new undergraduate course (with Colin Twomey): [Data Science for Studying Language and the Mind](/ling172).
+Puedes encontrar más información sobre mis proyectos en esta sección.
