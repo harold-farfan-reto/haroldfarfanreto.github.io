@@ -19,7 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md"}
   - {url: "/Harold-Farfan-Reto.pdf", title: CV}
   - {url: "https://hfarfanreto.github.io/politicas_publicas/", title: Políticas Públicas}
-  - {file: "actividad.md"}
+  - {file: "actividad.md", title: Actividad}
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
