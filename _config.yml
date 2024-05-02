@@ -18,6 +18,7 @@ show_sidebar: false        # show a sidebar instead of the usual header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md"}
   - {file: "actividad.md", title: Actividad}
+  - {file: "publicaciones.md", title: Publicaciones}
   - {url: "https://www.haroldfarfanreto.org", title: Políticas Públicas}
   - {url: "/Harold_Farfan_Reto.pdf", title: CV}
 
