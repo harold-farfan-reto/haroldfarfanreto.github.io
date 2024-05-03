@@ -3,7 +3,7 @@ layout: page
 title: "Actividad"
 ---
 
-* 21-02-2022    ["Día Internacional de la Lengua Materna: se publica el Registro Nacional de Lenguas Indígenas u Originarias del Ministerio de Cultura"](https://evidencia-pe.com/blog/2024/02/dia-internacional-de-la-lengua-materna-se-publica-el-registro-nacional-de-lenguas-indigenas-u-originarias-del-ministerio-de-cultura/). Evidencia: Observatorio de Políticas Públicas para el Desarrollo.
+* 21-02-2024    ["Día Internacional de la Lengua Materna: se publica el Registro Nacional de Lenguas Indígenas u Originarias del Ministerio de Cultura"](https://evidencia-pe.com/blog/2024/02/dia-internacional-de-la-lengua-materna-se-publica-el-registro-nacional-de-lenguas-indigenas-u-originarias-del-ministerio-de-cultura/). Evidencia: Observatorio de Políticas Públicas para el Desarrollo.
 * 09-12-2022    "El rol de las universidades en la creación de servicios públicos interculturales". [I Coloquio de Ciencias Sociales e Interculturalidad: Desafíos actuales: 15 años de la Declaración de las Naciones Unidas sobre los Derechos de los Pueblos Indígenas](https://www.facebook.com/Posgrado.UARM/photos/a.820694941309202/6051841288194515). Escuela de Posgrado de la Universidad Antonio Ruiz de Montoya. 
 * 01-09-2022    [Nota sobre el Decreto Supremo que aprueba disposiciones para la implementación del Registro Nacional de Servidores Bilingües](https://evidencia-pe.com/blog/2022/09/nota-ds/). Evidencia: Observatorio de Políticas Públicas para el Desarrollo.
 
