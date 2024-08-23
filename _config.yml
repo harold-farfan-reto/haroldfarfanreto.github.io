@@ -27,7 +27,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:hfarfanreto@pm.me"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/haroldfarfanreto/"}
   - {title: Github, icon: github, url: "https://github.com/harold-farfan-reto"}
-  - {title: Twitter, icon: twitter, url: "https://twitter.com/"}
+  - {title: Twitter, icon: twitter, url: "https://x.com/hfarfanreto"}
 
 
 remote_theme: niklasbuschmann/contrast@v2.11
